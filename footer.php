@@ -1,18 +1,20 @@
 <!-- footer section start -->
-<div class="footer_section layout_padding">
-<div class="container px-5">
-                <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0 text-white">Copyright @ Dan_faith 2023-<?php echo date('Y')?></div></div>
+
+    <div class="footer_section layout_padding" style="bgcolor:#000; width:100%">
+        <div class="container px-5">
+            <div class="row align-items-center justify-content-between flex-column flex-sm-row" style="background-color:black; width:100%">
+                <div class="col-auto"><div class="small m-0 text-white">Copyright @ Dan_faith 2023-<?php echo date('Y')?></div></div>
                     <div class="col-auto">
                         <a class="link-light small" href="#!">Privacy</a>
-                        <span class="text-white mx-1">&middot;</span>
-                        <a class="link-light small" href="#!">Terms</a>
-                        <span class="text-white mx-1">&middot;</span>
-                        <a class="link-light small" href="contact.php">Contact</a>
+                            <span class="text-white mx-1">&middot;</span>
+                            <a class="link-light small" href="#!">Terms</a>
+                            <span class="text-white mx-1">&middot;</span>
+                            <a class="link-light small" href="contact.php">Contact</a>
                     </div>
-                </div>
             </div>
- </div>
+        </div>
+    </div>
+            
  <!-- footer section end -->
 
       <script src="js/jquery.min.js"></script>
