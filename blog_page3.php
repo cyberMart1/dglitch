@@ -2,7 +2,7 @@
 <?php
 include_once "header.php";
 ?>
-      <!-- blog post 1-->
+      <!-- blog post -->
       <div class="about_section layout_padding">
          <div class="container">
             <div class="row">
