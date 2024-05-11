@@ -209,6 +209,35 @@ require_once "header.php";
          </div>
       </div>  
       <!-- recent section end --> 
+       <!-- blog post 5-->
+       <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="sport_news/Sofyan-Amraba.jpg"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <p class="post_text">Sport News<br>Post By : 11th May 2024</p>
+                  <h2 class="most_text">Negotiations underway: Manchester United ready to cut ties with Sofyan Amrabat as loanee seeks new club this summer</h2>
+                  <p class="lorem_text">
+                     Sofyan Amrabat will be looking for a new club this summer with Manchester United not 
+                     intending to make his loan move permanent, according to reports.
+                  </p>           
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="manchester-united-to-cut-ties-sofyan-amrabat.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!--blog post End-->
 
       <!--Page Nav-->
       
