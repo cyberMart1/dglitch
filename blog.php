@@ -148,7 +148,7 @@ require_once "header.php";
             </div>
          </div>
       </div>
-      <!--blog post End-->
+      <!--blog  End-->
       
       
       <div id="buttons">
