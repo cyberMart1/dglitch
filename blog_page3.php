@@ -91,31 +91,7 @@ include_once "header.php";
             </div>
          </div>
       </div>
-       <!-- blog post 4 -->
-       <div class="about_section layout_padding">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-8 col-sm-12">
-                  <div class="about_img"><img src="uncategorized_news/police.jpg"></div>
-                  <div class="like_icon"><img src="images/like-icon.png"></div>
-                  <p class="post_text">News<br>Post By : May 5, 2024</p>
-                  <h2 class="most_text">Akwa Ibom: Murder of policeman,others signal renewed terror</h2>
-                  <p class="lorem_text">After operating on the fringes unhindered for months closing 2023, emboldened armed gangs in Akwa Ibom State are pushing a renewed reign of terror into the heart of Uyo, the capital city.</p>
-                  
-                  <div class="social_icon_main">
-                     <div class="social_icon">
-                        <ul>
-                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
-                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
-                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
-                        </ul>
-                     </div>
-                     <div class="read_bt"><a href="akwa-ibom-murder-of-policemanothers-signal-renewed-terror.php">Read More</a></div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
+       
       <!-- blog post 5 -->
       <div class="about_section layout_padding">
          <div class="container">

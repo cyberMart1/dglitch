@@ -11,7 +11,7 @@ require_once "header.php";
                      <div class="carousel-item active">
                         <div class="image_main">
                            <div class="container">
-                              <img src="entertament_news/Paul-Okoye-.jpeg" class="image_1">
+                              <img src="uncategorized_news/women_vs_sars.png" class="image_1">
                               <div class="contact_bt"><a href="contact.php">Contact Us</a></div>
                            </div>
                         </div>
@@ -19,7 +19,7 @@ require_once "header.php";
                      <div class="carousel-item">
                         <div class="image_main">
                            <div class="container">
-                              <img src="sport_news/pochettino2.jpeg" class="image_1">
+                              <img src="uncategorized_news/police.jpg" class="image_1">
                               <div class="contact_bt"><a href="contact.php">Contact Us</a></div>
                            </div>
                         </div>
@@ -27,7 +27,7 @@ require_once "header.php";
                      <div class="carousel-item">
                         <div class="image_main">
                            <div class="container">
-                              <img src="images/img-1.png" class="image_1">
+                              <img src="uncategorized_news/policemen.jpg" class="image_1">
                               <div class="contact_bt"><a href="contact.php">Contact Us</a></div>
                            </div>
                         </div>
@@ -228,6 +228,56 @@ require_once "header.php";
                         </ul>
                      </div>
                      <div class="read_bt"><a href="why-Nigeria-wants-to-remove-police-roadblocks.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+       <!-- blog post -->
+       <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/NSCDC-OPERATIVES.jpg"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">N7.5bn fraud: EFCC grills 20 NSCDC contractors, 10 officers</h2>
+                  <p class="lorem_text">The Economic and Financial Crimes Commission is probing 10 senior officers of the Nigeria Security and Civil Defence Corps over an alleged N7.5bn fraud.</p>
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="n7-5bn-fraud-efcc-grills-20-nscdc-contractors-10-officers.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <!-- blog post-->
+      <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/police.jpg"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">Akwa Ibom: Murder of policeman,others signal renewed terror</h2>
+                  <p class="lorem_text">After operating on the fringes unhindered for months closing 2023, emboldened armed gangs in Akwa Ibom State are pushing a renewed reign of terror into the heart of Uyo, the capital city.</p>
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="akwa-ibom-murder-of-policemanothers-signal-renewed-terror.php">Read More</a></div>
                   </div>
                </div>
             </div>
