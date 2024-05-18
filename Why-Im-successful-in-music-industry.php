@@ -31,6 +31,9 @@ require_once "header.php";
                     <p>
                         In an interview she granted a few years ago, Simi stated that she dumped gospel music because it wasn’t “lucrative.”
                     </p>
+                    <p>
+                        =========
+                    </p>
                    
                  <div class="social_icon_main">
                     <div class="social_icon">

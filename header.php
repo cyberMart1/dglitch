@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>danfaith</title>
+      <title>D'Glitch</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -34,7 +34,7 @@
       <div class="header_section">
          <div class="container-fluid header_main">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-               <a class="logo" href="index.php"><img src="images/danfaith.png"></a>
+               <a class="logo" href="index.php"><img src="images/d'glitch.png"></a>
                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded = "false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
                </button>

@@ -2,6 +2,126 @@
 <?php
 require_once "header.php";
 ?>
+
+    <!-- blog Post -->
+    <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/patiants.png"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">Abuja Killings: The truth, lies and politics</h2>
+                  <p class="lorem_text">
+                     Were the victims of Apo Shooting on September 20, 2013 really members of Boko Haram as advanced 
+                     by the Department of  State Security Service (DSS) or mere squatters in an uncompleted building 
+                     allegedly owned by a retired Army General? Was that a case of another extra Judicial killing in 
+                     the Federal Capital Territory by the operatives of security agencies? Saturday Vanguard in this 
+                     special report reveals all the sides of the story.
+                  </p>           
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="abuja-killings-truth-lies-politics.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <!-- blog Post -->
+      <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/policemen.jpg"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">Distrust of Nigerian police grows among women over rape allegations</h2>
+                  <p class="lorem_text">
+                     Several women have alleged that they were raped by members of the police who used plastic
+                      bags often used to sell water in little packages in Nigeria as condoms.
+                  </p>           
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="distrust-of-nigerian-police-grows-among-women-over-rape-allegations.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+       <!-- blog Post -->
+       <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/trafficRoad.png"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">Why Nigeria wants to remove police roadblocks</h2>
+                  <p class="lorem_text">
+                     Nigeria's police chief Ibrahim Idris has ordered the immediate removal of all police roadblocks across 
+                     the country.
+                  </p>           
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="why-Nigeria-wants-to-remove-police-roadblocks.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <!-- Blog Post --> 
+      <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/women_vs_sars.png"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                 
+                  <h2 class="most_text">NIGERIAN WOMEN VS SARS: A COALITION AGAINST POLICE BRUTALITY</h2>
+                  <p class="lorem_text">Whenever revolutions are documented, women are erased. 
+                     History is timelessly unkind to women and women’s contributions to politics and activism. 
+                     When honor is due to be awarded, Black women’s accomplishments are at best, 
+                     credited to the patriarchs, and at worst, labeled subversive. Experience has taught us, 
+                     however, to give people their flowers while they can still smell them. Therefore, 
+                     there is a need for us as Black women to tell our stories and document our history before 
+                     they get the chance to be erased. In Sub-Saharan Africa currently, Nigerians have taken 
+                     to the streets en masse protesting against police brutality by a notorious unit called SARS. 
+                     Actively spearheading this movement is Nigerian women..</p>
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="nigerian-women-vs-sars-a-coalition-against-police-brutality.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>  
       <!-- blog post 1-->
       <div class="about_section layout_padding">
          <div class="container">
