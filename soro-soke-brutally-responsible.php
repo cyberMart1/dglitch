@@ -8,8 +8,8 @@ require_once "header.php";
         <div class="row">
             <div class="col-lg-2 col-sm-12"></div>
             <div class="col-lg-8 col-sm-12">
-                <div class="about_img"><img src="uncategorized_news/patiants.png"></div>
-                <h2 class="most_text">A JOURNEY TO INFINITY: Another Senseless Killing on the Streets of Lagos</h2>
+                <div class="about_img"><img src="uncategorized_news/endSars.jpg"></div>
+                <h2 class="most_text">SORO SOKE! Brutally Responsible **</h2>
                 <article>
                     <p>
                       The air crackled with a nervous energy. It was the day after the final #ENDSARS protest, the one that had promised to be the turning point. The streets, usually a chaotic symphony of horns and vendors, were eerily quiet, the silence punctuated by the distant wail of a siren.
