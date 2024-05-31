@@ -430,6 +430,33 @@ require_once "header.php";
       </div>
       <!--blog post End-->
 
+<!-- blog Post -->
+       <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/endSars.jpg"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">SORO SOKE! Brutally Responsible **</h2>
+                  <p class="lorem_text">
+                     The air crackled with a nervous energy. It was the day after the final #ENDSARS protest, the one that had promised to be the turning point. The streets, usually a chaotic symphony of horns and vendors, were eerily quiet, the silence punctuated by the distant wail of a siren.
+                  </p>           
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="soro-soke-brutally-responsible.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
    <!-- blog Post -->
        <div class="about_section layout_padding">
          <div class="container">
