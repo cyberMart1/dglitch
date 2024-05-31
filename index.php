@@ -422,13 +422,40 @@ require_once "header.php";
                            <li><a href="#"><img src="images/instagram-icon.png"></a></li>
                         </ul>
                      </div>
-                     <div class="read_bt"><a href="manchester-united-to-cut-ties-sofyan-amrabat.php">Read More</a></div>
+                     <div class="read_bt"><a href="a-journey-to-infinity.php">Read More</a></div>
                   </div>
                </div>
             </div>
          </div>
       </div>
       <!--blog post End-->
+
+   <!-- blog Post -->
+       <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-sm-12">
+                  <div class="about_img"><img src="uncategorized_news/uche_okafor.jpg"></div>
+                  <div class="like_icon"><img src="images/like-icon.png"></div>
+                  <h2 class="most_text">A JOURNEY TO INFINITY: Another Senseless Killing on the Streets of Lagos</h2>
+                  <p class="lorem_text">
+                     In the bustling streets of Ogba, Nigeria, an innocent life was tragically cut short by the hands of a police officer.
+                  </p>           
+                  
+                  <div class="social_icon_main">
+                     <div class="social_icon">
+                        <ul>
+                           <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                           <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                           <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+                        </ul>
+                     </div>
+                     <div class="read_bt"><a href="why-Nigeria-wants-to-remove-police-roadblocks.php">Read More</a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
 
       <!--Page Nav-->
       
