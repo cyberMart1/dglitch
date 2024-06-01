@@ -405,13 +405,13 @@ require_once "header.php";
          <div class="container">
             <div class="row">
                <div class="col-lg-8 col-sm-12">
-                  <div class="about_img"><img src="sport_news/Sofyan-Amraba.jpg"></div>
+                  <div class="about_img"><img src="uncategorized_news/sac_lamb.jpg"></div>
                   <div class="like_icon"><img src="images/like-icon.png"></div>
-                  <p class="post_text">Sport News<br>Post By : 11th May 2024</p>
-                  <h2 class="most_text">Negotiations underway: Manchester United ready to cut ties with Sofyan Amrabat as loanee seeks new club this summer</h2>
+                  <h2 class="most_text">SILENCE OF THE LAMB: Another Sacrificial Lamb In The Hands Of Police Brutality</h2>
                   <p class="lorem_text">
-                     Sofyan Amrabat will be looking for a new club this summer with Manchester United not 
-                     intending to make his loan move permanent, according to reports.
+                     The humid air of Lagos hung heavy, thick with the scent of rain and exhaust fumes. It was April 2013, 
+                           and the streets of Ogba pulsed with the energy of a city that never slept. But in a quiet corner of the bustling neighborhood, a tragedy unfolded, 
+                           leaving a family shattered and a community reeling.
                   </p>           
                   
                   <div class="social_icon_main">
@@ -422,7 +422,7 @@ require_once "header.php";
                            <li><a href="#"><img src="images/instagram-icon.png"></a></li>
                         </ul>
                      </div>
-                     <div class="read_bt"><a href="a-journey-to-infinity.php">Read More</a></div>
+                     <div class="read_bt"><a href="silence-of-the-lamb.php">Read More</a></div>
                   </div>
                </div>
             </div>
